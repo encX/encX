@@ -1,16 +1,15 @@
-### Hi there 👋
+### G'day mate!
 
-<!--
-**encX/encX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### These days, I'm more familair with these...
+- JavaScript stacks (node, deno, TS)
+- .netcore/.net5+ stacks (no .netframework plz, sorry 🥲)
+- Telemetry collection (openTelemetry, MS Application Insights)
+- Code generation (openapi-codegen, swagger)
+- CI Stuff (GitLab CI, GitHub actions, TeamCity)
+- Infrastrcture stuff (openstack, terraform, packer, k(3|8)s, docker, etc.)
+- Home automation (HomeBridge, HomeAssistant)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Active projects
+- Tools for GitLab
+  - GitLab self-hosted runner admin tool (to be opensource soon!)
+  - Generated GitLab API clients (still WIP)

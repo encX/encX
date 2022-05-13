@@ -11,5 +11,5 @@
 
 #### Active projects
 - Tools for GitLab
-  - GitLab self-hosted runner admin tool (to be opensource soon!)
+  - [GitLabKit](https://github.com/encX/GitLabKit)
   - Generated GitLab API clients (still WIP)
